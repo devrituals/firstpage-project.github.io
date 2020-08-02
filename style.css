@@ -15,16 +15,17 @@ body{
  padding: 10px;
 }
 
-.search-box:hover > .search-txt {
+.search-box:hover > .search-txt{
  width: 240px;
- padding: 0 6px;
+ padding: 6px;
+
 }
 
-.search-box:hover > .search-btn {
- background: white;
- color: black;
-}
+.search-box:hover > .search-btn{
+background: white;
+ }
 
+ 
 .search-btn {
  color: #e84118;
  float: right;
@@ -40,9 +41,6 @@ body{
  cursor: pointer;
 }
 
-.search-btn > i {
- font-size: 30px;
-}
 
 .search-txt {
  border: none;
