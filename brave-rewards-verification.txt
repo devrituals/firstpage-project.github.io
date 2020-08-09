@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: selling4e.online
+Token: 602426d34b98ebd6eff2db427d277a8955caf9e44c8affb8b84ef43604a0db61
